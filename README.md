@@ -2,6 +2,7 @@
  
 Land Registry is a simple frontend connected with ethereum via smart contract for registering Real esate property.
 
+[Presentation](https://www.canva.com/design/DAFRib5xryc/iGh66d-hIX_JVKT2VsImSg/view?utm_content=DAFRib5xryc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ## The Idea
 The idea was to made an easy platform to manage the property of citizens in a free and fast way without paying for registering a property or transfer a property
 in the notary offices
